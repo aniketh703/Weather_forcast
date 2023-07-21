@@ -1,4 +1,4 @@
-# Weather_forcast
+# Weather_forecast
 The project demonstrates a Python script that retrieves weather forecast data from the Weather API, formats and prints the forecast, and saves it to a file. It imports the necessary modules (json, os, datetime, timedelta, requests)
 1. `get_weather_forecast(location)`: Retrieves the weather forecast data for a specified location from the Weather API. It takes a location parameter and returns a list of tuples, each containing the forecast data for a specific day.
 
